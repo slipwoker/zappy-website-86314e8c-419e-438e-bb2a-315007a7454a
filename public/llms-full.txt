@@ -2,13 +2,13 @@
 
 A wild, intense, and psychedelic gaming website with an extreme and edgy vibe. The user wants something visually bold, unconventional, and over-the-top — a gaming experience that feels crazy and mind-bending in its design and energy.
 
-Source: https://gk-86314e8c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## xbox cloud gaming — GK
 
-URL: https://gk-86314e8c.zappy5.app
+URL: https://example.com
 Description: GK היא חוויית הגיימינג הכי פסיכדלית שקיימת. xbox cloud gaming בעוצמה מטורפת, עיצוב קיצוני ואנרגיה שתפוצץ לך את המוח. הצטרף עכשיו!
 
 xbox cloud gaming — GK
@@ -446,7 +446,7 @@ xbox cloud gaming & מעבר לגבולות — GK מגדיר מחדש את הח
 
 ## תכונות — GK
 
-URL: https://gk-86314e8c.zappy5.app/features
+URL: https://example.com/features
 Description: תכונות | GK. xbox cloud gaming
 
 תכונות — GK
@@ -1016,7 +1016,7 @@ GK לא נראה כמו אף אתר גיימינג שראיתי. זה לא סת�
 
 ## אודות — GK
 
-URL: https://gk-86314e8c.zappy5.app/about
+URL: https://example.com/about
 Description: אודות | GK. xbox cloud gaming
 
 אודות — GK
@@ -1448,7 +1448,7 @@ GK לא נבנה כדי לספק — הוא נבנה כדי לפוצץ. אנחנ
 
 ## צור קשר — GK
 
-URL: https://gk-86314e8c.zappy5.app/contact
+URL: https://example.com/contact
 Description: צור קשר | GK. xbox cloud gaming
 
 צור קשר — GK
@@ -1855,7 +1855,7 @@ GK חיים ברשת — תוכן יומי, עדכוני gaming, סשנים חי
 
 ## מדיניות פרטיות
 
-URL: https://gk-86314e8c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2051,7 +2051,7 @@ GK ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיות�
 
 ## הצהרת נגישות
 
-URL: https://gk-86314e8c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2256,7 +2256,7 @@ GK מחויבת להנגיש את השירותים לכלל הציבור. אנו
 
 ## תנאי שימוש
 
-URL: https://gk-86314e8c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
