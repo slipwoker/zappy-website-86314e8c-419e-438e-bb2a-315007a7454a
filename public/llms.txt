@@ -1,0 +1,77 @@
+# GK — Generative Engine Optimization Map
+
+> A wild, intense, and psychedelic gaming website with an extreme and edgy vibe. The user wants something visually bold, unconventional, and over-the-top — a gaming experience that feels crazy and mind-bending in its design and energy.
+
+---
+
+## Pages
+
+### בית
+https://gk-86314e8c.zappy5.app
+GK היא חוויית הגיימינג הכי פסיכדלית שקיימת. xbox cloud gaming בעוצמה מטורפת, עיצוב קיצוני ואנרגיה שתפוצץ לך את המוח. הצטרף עכשיו!
+
+### תכונות
+https://gk-86314e8c.zappy5.app/features
+תכונות | GK. xbox cloud gaming
+
+### אודות
+https://gk-86314e8c.zappy5.app/about
+אודות | GK. xbox cloud gaming
+
+### צור קשר
+https://gk-86314e8c.zappy5.app/contact
+צור קשר | GK. xbox cloud gaming
+
+## Legal & Policy
+
+### Privacy Policy
+https://gk-86314e8c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gk-86314e8c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gk-86314e8c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://gk-86314e8c.zappy5.app/contact
+- Endpoint: https://gk-86314e8c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GK
+A wild, intense, and psychedelic gaming website with an extreme and edgy vibe. The user wants something visually bold, unconventional, and over-the-top — a gaming experience that feels crazy and mind-bending in its design and energy.
+
+## Target Audience
+- חובבי משחקים מושבעים
+- גיימרים מזדמנים
+
+## Industry
+Gaming
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gk-86314e8c.zappy5.app/sitemap.xml
+- Robots: https://gk-86314e8c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gk-86314e8c.zappy5.app/llms-full.txt
