@@ -40,7 +40,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: oriorbach16@gmail.com
+- Address: הרואה, טלמון, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
